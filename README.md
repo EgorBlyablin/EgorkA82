@@ -1,6 +1,5 @@
 # Hello there 👋!
 I'm **`Egor Blyablin`**, just a student from **`Russia`**.<br>
-Right now I'm trying to dive into **WebDev**, learning **React**.
 
 ## 🔧 Technologies and tools I'm familiar with:
 
@@ -19,7 +18,7 @@ Right now I'm trying to dive into **WebDev**, learning **React**.
 ### Back-end
 <img src="https://img.shields.io/badge/Django-44b78b?logo=django&style=for-the-badge"/> <img src="https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"/>
 
-## 🎓 Currently I'm learning:
+## Died learning:
 <img src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi&style=for-the-badge"/> <img src="https://img.shields.io/badge/React-grey?logo=react&style=for-the-badge"/>
 
 ## 📊 Some cool(not) stats
