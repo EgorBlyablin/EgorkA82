@@ -24,10 +24,3 @@ Right now I'm trying to dive into **WebDev**, learning **React**.
 
 ## 📊 Some cool(not) stats
 [![EgorkA82's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorkA82&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/EgorkA82/github-readme-stats)
-
-## 🗨 Social Media
-You can find me on **Reddit**, **VK** and **Discord**:
-
-<a href="https://www.reddit.com/user/EgorukA_82"><img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=white&style=for-the-badge"/></a>
-<a href="https://vk.com/egor_blyablin"><img src="https://img.shields.io/badge/VK-0077ff?logo=vk&logoColor=white&style=for-the-badge"/></a>
-<a href="https://discordapp.com/users/449971240556298242"><img src="https://img.shields.io/badge/Discord-5662f6?logo=discord&logoColor=white&style=for-the-badge"/></a>
