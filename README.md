@@ -22,5 +22,6 @@ I'm **`Egor Blyablin`**, just a student from **`Russia`**.<br>
 <img src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi&style=for-the-badge"/> <img src="https://img.shields.io/badge/React-grey?logo=react&style=for-the-badge"/>
 
 <br>
+
 ### 📊 Some cool(not) stats
 [![EgorkA82's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorkA82&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/EgorkA82/github-readme-stats)
