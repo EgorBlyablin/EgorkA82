@@ -18,8 +18,9 @@ I'm **`Egor Blyablin`**, just a student from **`Russia`**.<br>
 ### Back-end
 <img src="https://img.shields.io/badge/Django-44b78b?logo=django&style=for-the-badge"/> <img src="https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"/>
 
-## Died learning:
+### Died learning:
 <img src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi&style=for-the-badge"/> <img src="https://img.shields.io/badge/React-grey?logo=react&style=for-the-badge"/>
 
-## 📊 Some cool(not) stats
+<br>
+### 📊 Some cool(not) stats
 [![EgorkA82's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorkA82&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/EgorkA82/github-readme-stats)
