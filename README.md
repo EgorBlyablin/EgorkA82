@@ -22,7 +22,7 @@ Right now I'm trying to dive into **WebDev**, learning **React**.
 ## 🎓 Currently I'm learning:
 <img src="https://img.shields.io/badge/FastAPI-grey?logo=fastapi&style=for-the-badge"/> <img src="https://img.shields.io/badge/React-grey?logo=react&style=for-the-badge"/>
 
-## 📊 Some cool stats
+## 📊 Some cool(not) stats
 [![EgorkA82's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorkA82&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/EgorkA82/github-readme-stats)
 
 ## 🗨 Social Media
