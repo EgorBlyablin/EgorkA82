@@ -4,13 +4,13 @@ I'm **`Egor Blyablin`**, just a student from **`Russia`**.<br>
 ## 🔧 Technologies and tools I'm familiar with:
 
 ### Development
-<img src="https://img.shields.io/badge/OS-Windows%2011-08b0ec?logo=windows&logoColor=08b0ec&style=for-the-badge"/> <img src="https://img.shields.io/badge/Editor-VSCode-39a8f2?logo=visualstudiocode&logoColor=39a8f2&style=for-the-badge"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&style=for-the-badge"/> <img src="https://img.shields.io/badge/Webpack-grey?logo=webpack&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OS-Windows%2011-08b0ec?logo=windows&logoColor=08b0ec&style=for-the-badge"/> <img src="https://img.shields.io/badge/Editor-VSCode-39a8f2?logo=visualstudiocode&logoColor=39a8f2&style=for-the-badge"/>
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=for-the-badge"/> <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=for-the-badge"/> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"/>
 
 ### Applications
-<img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge"/> 
 
 ### Front-end
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge"/>
